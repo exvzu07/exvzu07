@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/27exv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="27exv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rafi-afdhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi-afdhal" height="30" width="40" /></a>
 <a href="https://fb.com/rafiafdhal.rafiafdhal.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafiafdhal.rafiafdhal.31" height="30" width="40" /></a>
 <a href="https://instagram.com/exvne.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exvne.id" height="30" width="40" /></a>
